@@ -1,5 +1,10 @@
 # Project Blog - Filme Spirit: Stallion of the Cimarron
 
+<p align="center">
+  <img width="250px" src="https://github.com/jhansenbarreto/bootcamp-dio-santander/assets/13790608/43a7d96d-5312-4ec2-82fa-025de1239589">
+  <img width="250px" src="https://github.com/jhansenbarreto/bootcamp-dio-santander/assets/13790608/9a5874c6-9fde-4b9e-83be-a010aa369fdb">
+</p>
+
 Link GitHubPages:
 
 # AngularBlog

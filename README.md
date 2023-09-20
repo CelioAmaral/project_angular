@@ -5,7 +5,7 @@
   <img width="250px" src="https://github.com/jhansenbarreto/bootcamp-dio-santander/assets/13790608/9a5874c6-9fde-4b9e-83be-a010aa369fdb">
 </p>
 
-Link GitHubPages:
+Link GitHubPages: https://celioamaral.github.io/project_angular/
 
 # AngularBlog
 

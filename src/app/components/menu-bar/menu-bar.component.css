@@ -11,10 +11,11 @@
 .container__menu-bar > nav > ul > li > a {
 	text-decoration: none;
 	padding: 5px;
-	color: var(--c-primary);
+	color: rgb(7, 7, 7);
+	font-family: 'Segoe UI';
 }
 
 .container__menu-bar > nav > ul > li > a:hover {
-	color: var(--bg-5);
+	color: blue;
 	font-weight: 600;
 }
